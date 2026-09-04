@@ -1,0 +1,60 @@
+about:
+  description: eilmeldung is a TUI RSS reader based on the awesome news-flash library.
+  license: GPL-3.0
+  homepage: 
+  head: 9005c50
+  archived: false
+  latestVersion: 1.8.1
+  collectedAt: 2026-09-04T04:25:41Z
+timeline:
+  created: 2025-12-14
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-02
+popularity:
+  star: 983
+  watcher: 1
+  fork: 36
+  release: 70
+  contributor: 11
+  pullRequest: 0
+  issue: 124
+language:
+  Rust: 573242
+  PowerShell: 15068
+  Nix: 5668
+  Ruby: 797
+  Shell: 621
+totalLine: 595396
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 4
+    mergedPR: 18
+    openPR: 0
+    closedIssue: 5
+    openIssue: 1
+    commit: 43
+  last90d:
+    since: 2026-06-06
+    release: 8
+    mergedPR: 33
+    openPR: 0
+    closedIssue: 7
+    openIssue: 1
+    commit: 79
+  last180d:
+    since: 2026-03-08
+    release: 25
+    mergedPR: 78
+    openPR: 0
+    closedIssue: 40
+    openIssue: 1
+    commit: 232
+  last360d:
+    since: 2025-09-09
+    release: 70
+    mergedPR: 179
+    openPR: 0
+    closedIssue: 123
+    openIssue: 1
+    commit: 763
