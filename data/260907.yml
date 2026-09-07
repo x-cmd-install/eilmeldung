@@ -5,13 +5,13 @@ about:
   head: 924ce1f
   archived: false
   latestVersion: "1.8.1"
-  collectedAt: 2026-09-07T04:31:06Z
+  collectedAt: 2026-09-07T20:00:42Z
 timeline:
   created: 2025-12-14
   lastCommit: 2026-09-04
   lastRelease: 2026-09-02
 popularity:
-  star: 992
+  star: 994
   watcher: 1
   fork: 35
   release: 70
@@ -83,7 +83,7 @@ total:
   commit: 768
 ---
 path: /home/runner/.x-repo/github.com/christo-auer/eilmeldung
-collectedAt: 2026-09-07T04:31:13Z
+collectedAt: 2026-09-07T20:00:45Z
 loc:
   Rust:
     code: 14777
@@ -139,7 +139,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:31:14+00:00
+  collectedAt: 2026-09-07T20:00:45+00:00
   platform:
     darwin/arm64:
       name:  eilmeldung-aarch64-apple-darwin-1.8.1.tar.gz
