@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14497789,
       "digest": "sha256:498996b040b527cc841618fa8ec9fe9257714e008db4611ed87587a8bf4e1a7f",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-09-02T06:26:03Z",
       "updated_at": "2026-09-02T06:26:04Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.8.1/eilmeldung-aarch64-unknown-linux-musl-1.8.1.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12482035,
       "digest": "sha256:20a68de34f4148b4032b58f42d4b65c665cb9a2f93a7c2291731491e71eab5b7",
-      "download_count": 32,
+      "download_count": 37,
       "created_at": "2026-09-02T06:26:03Z",
       "updated_at": "2026-09-02T06:26:04Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.8.1/eilmeldung-x86_64-pc-windows-msvc-1.8.1.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15251789,
       "digest": "sha256:bb5fd863ca41e7c5893149601eeddfcc15805f2c83adc1a23b84d55e2cf0d095",
-      "download_count": 149,
+      "download_count": 157,
       "created_at": "2026-09-02T06:26:03Z",
       "updated_at": "2026-09-02T06:26:04Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.8.1/eilmeldung-x86_64-unknown-linux-musl-1.8.1.tar.gz"
