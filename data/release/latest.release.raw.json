@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 10302457,
       "digest": "sha256:c4b80700c1d6f69ffa215c070d646fd288a542ada4321dcfae7170ee12840c11",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-18T09:16:42Z",
       "updated_at": "2026-09-18T09:16:43Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.8.2/eilmeldung-aarch64-apple-darwin-1.8.2.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14624861,
       "digest": "sha256:ef9ea9bdebcdb6a083fe6602053935d046089d4a7afc72b459ff0c1b71104c25",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-09-18T09:16:42Z",
       "updated_at": "2026-09-18T09:16:43Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.8.2/eilmeldung-aarch64-unknown-linux-musl-1.8.2.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 13398958,
       "digest": "sha256:536c853d83a84d568435fda284f5b460176fe9e8de713d5b92334d6275b5fb24",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-18T09:16:42Z",
       "updated_at": "2026-09-18T09:16:43Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.8.2/eilmeldung-armv7-unknown-linux-musleabihf-1.8.2.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12611774,
       "digest": "sha256:71a997c08303d04a475589c86c756e09a51f0876b5b419fd2f7d3164930f7e61",
-      "download_count": 17,
+      "download_count": 19,
       "created_at": "2026-09-18T09:16:42Z",
       "updated_at": "2026-09-18T09:16:43Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.8.2/eilmeldung-x86_64-pc-windows-msvc-1.8.2.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15429981,
       "digest": "sha256:f2d60f7651f25adcc093302ef73003198e4088a977a276aadc54461f2bb6a72f",
-      "download_count": 65,
+      "download_count": 89,
       "created_at": "2026-09-18T09:16:42Z",
       "updated_at": "2026-09-18T09:16:43Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.8.2/eilmeldung-x86_64-unknown-linux-musl-1.8.2.tar.gz"
