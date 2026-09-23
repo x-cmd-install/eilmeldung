@@ -4,7 +4,7 @@
 
 eilmeldung is a TUI RSS reader based on the awesome news-flash library.
 
-[![x-cmd/install — eilmeldung Code Quality Monitoring Repo Card](https://repo.x-cmd.io/eilmeldung.svg?lang=zh)](https://x-cmd.com/install/eilmeldung)
+[![x-cmd/install — eilmeldung Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/eilmeldung.svg?lang=zh)](https://x-cmd.com/install/eilmeldung)
 
 ## 安装
 
@@ -47,12 +47,12 @@ x install eilmeldung
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 22 | 2 | 9 | 2 | 31 |
-| last60d | 2026-07-24 | 6 | 30 | 2 | 10 | 2 | 57 |
-| 90d | 2026-06-24 | 8 | 35 | 2 | 10 | 2 | 81 |
-| last180d | 2026-03-26 | 18 | 67 | 2 | 32 | 2 | 185 |
-| 360d | 2025-09-27 | 71 | 185 | 2 | 128 | 2 | 774 |
-| last720d | 2024-10-02 | 71 | 185 | 2 | 128 | 2 | 778 |
+| 30d | 2026-08-24 | 4 | 19 | 2 | 9 | 2 | 31 |
+| last60d | 2026-07-25 | 6 | 30 | 2 | 10 | 2 | 57 |
+| 90d | 2026-06-25 | 8 | 35 | 2 | 10 | 2 | 81 |
+| last180d | 2026-03-27 | 18 | 67 | 2 | 32 | 2 | 185 |
+| 360d | 2025-09-28 | 71 | 185 | 2 | 128 | 2 | 774 |
+| last720d | 2024-10-03 | 71 | 185 | 2 | 128 | 2 | 778 |
 
 ## Release 资产
 
@@ -74,4 +74,4 @@ eilmeldung 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:54:05Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:57:54Z._
