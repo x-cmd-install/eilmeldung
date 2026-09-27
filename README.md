@@ -47,12 +47,12 @@ Total: **23,117** lines of code across **401** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 4 | 17 | 1 | 10 | 1 | 34 |
-| last60d | 2026-07-28 | 6 | 27 | 1 | 11 | 1 | 60 |
-| 90d | 2026-06-28 | 9 | 36 | 1 | 11 | 1 | 84 |
-| last180d | 2026-03-30 | 19 | 67 | 1 | 33 | 1 | 188 |
-| 360d | 2025-10-01 | 72 | 186 | 1 | 129 | 1 | 777 |
-| last720d | 2024-10-06 | 72 | 186 | 1 | 129 | 1 | 781 |
+| 30d | 2026-08-28 | 4 | 15 | 1 | 10 | 1 | 14 |
+| last60d | 2026-07-29 | 6 | 27 | 1 | 11 | 1 | 58 |
+| 90d | 2026-06-29 | 9 | 36 | 1 | 11 | 1 | 84 |
+| last180d | 2026-03-31 | 18 | 67 | 1 | 33 | 1 | 185 |
+| 360d | 2025-10-02 | 72 | 186 | 1 | 129 | 1 | 776 |
+| last720d | 2024-10-07 | 72 | 186 | 1 | 129 | 1 | 781 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for eilmeldung lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T04:51:38Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:16:02Z._
