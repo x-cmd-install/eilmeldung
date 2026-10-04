@@ -32,27 +32,27 @@ Total: **23,439** lines of code across **415** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.9.0` (2026-09-23)
-- **Last commit**: 2026-09-27
+- **Last commit**: 2026-10-03
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,016 · **Forks**: 38 · **Open issues**: 130 · **Contributors**: 12
+- **Stars**: 1,016 · **Forks**: 38 · **Open issues**: 131 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 187 · **Open PRs**: 1 · **Closed issues**: 129 · **Open issues**: 1 · **Commits**: 783
+- **Releases**: 72 · **Merged PRs**: 188 · **Open PRs**: 1 · **Closed issues**: 130 · **Open issues**: 1 · **Commits**: 785
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 2 | 8 | 1 | 5 | 1 | 16 |
-| last60d | 2026-08-04 | 6 | 27 | 1 | 11 | 1 | 60 |
-| 90d | 2026-07-05 | 9 | 37 | 1 | 11 | 1 | 86 |
-| last180d | 2026-04-06 | 18 | 67 | 1 | 32 | 1 | 187 |
-| 360d | 2025-10-08 | 72 | 187 | 1 | 129 | 1 | 778 |
-| last720d | 2024-10-13 | 72 | 187 | 1 | 129 | 1 | 783 |
+| 30d | 2026-09-04 | 2 | 9 | 1 | 6 | 1 | 16 |
+| last60d | 2026-08-05 | 6 | 27 | 1 | 12 | 1 | 57 |
+| 90d | 2026-07-06 | 9 | 38 | 1 | 12 | 1 | 87 |
+| last180d | 2026-04-07 | 18 | 66 | 1 | 33 | 1 | 168 |
+| 360d | 2025-10-09 | 72 | 188 | 1 | 130 | 1 | 764 |
+| last720d | 2024-10-14 | 72 | 188 | 1 | 130 | 1 | 785 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for eilmeldung lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:19:05Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T05:51:57Z._
