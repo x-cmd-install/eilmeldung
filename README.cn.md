@@ -32,27 +32,27 @@ x install eilmeldung
 ## 发布
 
 - **最新版本**: `1.9.1` (2026-10-20)
-- **最近提交**: 2026-10-20
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 1,030 · **Fork**: 37 · **开放 issue**: 133 · **贡献者**: 13
+- **Star**: 1,032 · **Fork**: 37 · **开放 issue**: 136 · **贡献者**: 13
 
 ## 累计统计
 
-- **发布数**: 73 · **已合并 PR**: 191 · **开放 PR**: 2 · **已关闭 issue**: 131 · **开放 issue**: 2 · **提交数**: 792
+- **发布数**: 73 · **已合并 PR**: 192 · **开放 PR**: 1 · **已关闭 issue**: 131 · **开放 issue**: 5 · **提交数**: 793
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 5 | 1 | 2 | 1 | 0 |
-| last60d | 2026-08-23 | 6 | 28 | 2 | 13 | 1 | 0 |
-| 90d | 2026-07-24 | 8 | 36 | 2 | 14 | 1 | 0 |
-| last180d | 2026-04-25 | 16 | 64 | 2 | 28 | 2 | 0 |
-| 360d | 2025-10-27 | 73 | 191 | 2 | 131 | 2 | 0 |
-| last720d | 2024-11-01 | 73 | 191 | 2 | 131 | 2 | 792 |
+| 30d | 2026-09-23 | 2 | 6 | 0 | 2 | 4 | 12 |
+| last60d | 2026-08-24 | 6 | 26 | 1 | 13 | 4 | 55 |
+| 90d | 2026-07-25 | 8 | 37 | 1 | 14 | 4 | 78 |
+| last180d | 2026-04-26 | 16 | 64 | 1 | 28 | 5 | 156 |
+| 360d | 2025-10-28 | 73 | 192 | 1 | 131 | 5 | 753 |
+| last720d | 2024-11-02 | 73 | 192 | 1 | 131 | 5 | 793 |
 
 ## Release 资产
 
@@ -65,6 +65,15 @@ x install eilmeldung
 | [eilmeldung-x86_64-pc-windows-msvc-1.9.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.9.1/eilmeldung-x86_64-pc-windows-msvc-1.9.1.tar.gz) | 12.1 MiB | `native/win/x64` |
 | [eilmeldung-x86_64-unknown-linux-musl-1.9.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.9.1/eilmeldung-x86_64-unknown-linux-musl-1.9.1.tar.gz) | 14.5 MiB | `native/linux/x64/musl` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/eilmeldung) 上共有 **9** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `1.9.0` | ⚠️ outdated |
+| Void | `1.7.2` | ⚠️ outdated |
+
 ## 改进这些数据
 
 eilmeldung 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `eilmeldung` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -74,4 +83,4 @@ eilmeldung 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:44:19Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:46:13Z._
