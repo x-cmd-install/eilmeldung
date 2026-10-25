@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14720904,
       "digest": "sha256:bf4c1d6f847636c6a57f29151f4722c63176963fcd8b2ccd79ddeda3dd42dc76",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-20T10:05:57Z",
       "updated_at": "2026-10-20T10:05:58Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.9.1/eilmeldung-aarch64-unknown-linux-musl-1.9.1.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12710594,
       "digest": "sha256:44456d288a0459fd86a84fa5ba70d2a71f7fd4252f4b13fb4ba4684badf662ca",
-      "download_count": 30,
+      "download_count": 33,
       "created_at": "2026-10-20T10:05:57Z",
       "updated_at": "2026-10-20T10:05:57Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.9.1/eilmeldung-x86_64-pc-windows-msvc-1.9.1.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 15168017,
       "digest": "sha256:a3606ec88c8f2569051b0f68f596306581855dae4787ae956ccd24de3b61f893",
-      "download_count": 103,
+      "download_count": 121,
       "created_at": "2026-10-20T10:05:57Z",
       "updated_at": "2026-10-20T10:05:58Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.9.1/eilmeldung-x86_64-unknown-linux-musl-1.9.1.tar.gz"
