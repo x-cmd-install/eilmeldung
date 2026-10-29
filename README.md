@@ -14,15 +14,15 @@ x install eilmeldung
 
 ## Code insight
 
-Total: **23,908** lines of code across **418** files in the top 5 languages.
+Total: **23,615** lines of code across **417** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 15,618 | 253 | 2,364 | 56 |
 | Yaml | 7,461 | 28 | 14 | 352 |
-| Toml | 365 | 70 | 40 | 4 |
-| PowerShell | 291 | 67 | 43 | 2 |
+| Toml | 363 | 70 | 40 | 4 |
 | Nix | 141 | 3 | 24 | 4 |
+| Ruby | 19 | 0 | 6 | 1 |
 
 ## Source
 
@@ -31,8 +31,8 @@ Total: **23,908** lines of code across **418** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.9.1` (2026-10-20)
-- **Last commit**: 2026-10-22
+- **Latest**: `1.10.0` (2026-10-28)
+- **Last commit**: 2026-10-28
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,33 +41,33 @@ Total: **23,908** lines of code across **418** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 73 · **Merged PRs**: 192 · **Open PRs**: 1 · **Closed issues**: 131 · **Open issues**: 5 · **Commits**: 793
+- **Releases**: 74 · **Merged PRs**: 193 · **Open PRs**: 1 · **Closed issues**: 131 · **Open issues**: 5 · **Commits**: 798
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 5 | 0 | 2 | 4 | 10 |
-| last60d | 2026-08-29 | 5 | 21 | 1 | 13 | 4 | 32 |
-| 90d | 2026-07-30 | 7 | 32 | 1 | 14 | 4 | 70 |
-| last180d | 2026-05-01 | 15 | 64 | 1 | 27 | 4 | 145 |
-| 360d | 2025-11-02 | 73 | 192 | 1 | 131 | 5 | 731 |
-| last720d | 2024-11-07 | 73 | 192 | 1 | 131 | 5 | 793 |
+| 30d | 2026-09-29 | 2 | 6 | 1 | 2 | 4 | 15 |
+| last60d | 2026-08-30 | 6 | 22 | 1 | 13 | 4 | 37 |
+| 90d | 2026-07-31 | 8 | 33 | 1 | 14 | 4 | 75 |
+| last180d | 2026-05-02 | 16 | 65 | 1 | 26 | 4 | 150 |
+| 360d | 2025-11-03 | 74 | 193 | 1 | 131 | 5 | 736 |
+| last720d | 2024-11-08 | 74 | 193 | 1 | 131 | 5 | 798 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [eilmeldung-aarch64-apple-darwin-1.9.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.9.1/eilmeldung-aarch64-apple-darwin-1.9.1.tar.gz) | 9.9 MiB | `native/darwin/arm64` |
-| [eilmeldung-aarch64-unknown-linux-musl-1.9.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.9.1/eilmeldung-aarch64-unknown-linux-musl-1.9.1.tar.gz) | 14.0 MiB | `native/linux/arm64/musl` |
-| [eilmeldung-armv7-unknown-linux-musleabihf-1.9.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.9.1/eilmeldung-armv7-unknown-linux-musleabihf-1.9.1.tar.gz) | 12.9 MiB | `native/linux/arm/musl` |
-| [eilmeldung-x86_64-apple-darwin-1.9.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.9.1/eilmeldung-x86_64-apple-darwin-1.9.1.tar.gz) | 10.6 MiB | `native/darwin/x64` |
-| [eilmeldung-x86_64-pc-windows-msvc-1.9.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.9.1/eilmeldung-x86_64-pc-windows-msvc-1.9.1.tar.gz) | 12.1 MiB | `native/win/x64` |
-| [eilmeldung-x86_64-unknown-linux-musl-1.9.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.9.1/eilmeldung-x86_64-unknown-linux-musl-1.9.1.tar.gz) | 14.5 MiB | `native/linux/x64/musl` |
+| [eilmeldung-aarch64-apple-darwin-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-aarch64-apple-darwin-1.10.0.tar.gz) | 10.7 MiB | `native/darwin/arm64` |
+| [eilmeldung-aarch64-unknown-linux-musl-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-aarch64-unknown-linux-musl-1.10.0.tar.gz) | 12.3 MiB | `native/linux/arm64/musl` |
+| [eilmeldung-armv7-unknown-linux-musleabihf-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-armv7-unknown-linux-musleabihf-1.10.0.tar.gz) | 12.0 MiB | `native/linux/arm/musl` |
+| [eilmeldung-x86_64-apple-darwin-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-x86_64-apple-darwin-1.10.0.tar.gz) | 11.4 MiB | `native/darwin/x64` |
+| [eilmeldung-x86_64-pc-windows-msvc-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-x86_64-pc-windows-msvc-1.10.0.tar.gz) | 12.1 MiB | `native/win/x64` |
+| [eilmeldung-x86_64-unknown-linux-musl-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-x86_64-unknown-linux-musl-1.10.0.tar.gz) | 13.1 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/eilmeldung). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/eilmeldung). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for eilmeldung lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:40:12Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:48:18Z._
