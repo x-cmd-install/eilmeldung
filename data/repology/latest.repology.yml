@@ -2,8 +2,8 @@
   srcname: eilmeldung
   binname: eilmeldung
   visiblename: eilmeldung
-  version: 1.9.1
-  origversion: 1.9.1-1
+  version: 1.10.0
+  origversion: 1.10.0-1
   status: newest
   summary: a TUI RSS reader based on the news-flash library
   maintainers:
@@ -14,8 +14,8 @@
   srcname: eilmeldung-bin
   binname: eilmeldung-bin
   visiblename: eilmeldung-bin
-  version: 1.9.1
-  origversion: 1.9.1-1
+  version: 1.10.0
+  origversion: 1.10.0-1
   status: newest
   summary: a TUI RSS reader based on the news-flash library
   maintainers:
@@ -76,7 +76,7 @@
   visiblename: news/eilmeldung
   version: 1.9.1
   origversion: null
-  status: newest
+  status: outdated
   summary: TUI RSS reader based on the news-flash library
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -86,7 +86,7 @@
   subrepo: main
   binname: eilmeldung
   visiblename: eilmeldung
-  version: 1.9.1
+  version: 1.10.0
   origversion: null
   status: newest
   licenses:
