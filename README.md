@@ -37,22 +37,22 @@ Total: **23,639** lines of code across **417** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,050 · **Forks**: 38 · **Open issues**: 137 · **Contributors**: 13
+- **Stars**: 1,051 · **Forks**: 38 · **Open issues**: 138 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 196 · **Open PRs**: 0 · **Closed issues**: 132 · **Open issues**: 5 · **Commits**: 801
+- **Releases**: 74 · **Merged PRs**: 196 · **Open PRs**: 0 · **Closed issues**: 132 · **Open issues**: 6 · **Commits**: 801
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 8 | 0 | 2 | 4 | 16 |
-| last60d | 2026-09-06 | 4 | 17 | 0 | 9 | 4 | 33 |
-| 90d | 2026-08-07 | 8 | 35 | 0 | 15 | 4 | 73 |
-| last180d | 2026-05-09 | 15 | 65 | 0 | 26 | 4 | 147 |
-| 360d | 2025-11-10 | 74 | 196 | 0 | 132 | 5 | 726 |
-| last720d | 2024-11-15 | 74 | 196 | 0 | 132 | 5 | 801 |
+| 30d | 2026-10-07 | 2 | 8 | 0 | 2 | 5 | 16 |
+| last60d | 2026-09-07 | 4 | 17 | 0 | 9 | 5 | 33 |
+| 90d | 2026-08-08 | 8 | 34 | 0 | 14 | 5 | 73 |
+| last180d | 2026-05-10 | 15 | 61 | 0 | 23 | 5 | 147 |
+| 360d | 2025-11-11 | 74 | 196 | 0 | 132 | 6 | 726 |
+| last720d | 2024-11-16 | 74 | 196 | 0 | 132 | 6 | 801 |
 
 ## Release assets
 
@@ -67,11 +67,11 @@ Total: **23,639** lines of code across **417** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/eilmeldung). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/eilmeldung). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `1.9.0` | ⚠️ outdated |
+| Nix unstable | `1.10.0` | ✅ latest |
 | Void | `1.7.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -83,4 +83,4 @@ Install metadata for eilmeldung lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:43:57Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:33:07Z._
