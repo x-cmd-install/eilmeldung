@@ -1,3 +1,12 @@
+- repo: scoop
+  subrepo: main
+  binname: eilmeldung
+  visiblename: eilmeldung
+  version: 1.10.0
+  origversion: null
+  status: newest
+  licenses:
+    - GPL-3.0-only
 - repo: aur
   srcname: eilmeldung
   binname: eilmeldung
@@ -37,9 +46,9 @@
 - repo: nix_unstable
   srcname: eilmeldung
   visiblename: eilmeldung
-  version: 1.9.0
+  version: 1.10.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Feature-rich TUI RSS reader based on the news-flash library
   maintainers:
     - christo-auer@github
@@ -82,15 +91,6 @@
     - pkgsrc-users@netbsd.org
   categories:
     - news
-- repo: scoop
-  subrepo: main
-  binname: eilmeldung
-  visiblename: eilmeldung
-  version: 1.10.0
-  origversion: null
-  status: newest
-  licenses:
-    - GPL-3.0-only
 - repo: void_x86_64
   subrepo: x86_64
   srcname: eilmeldung
