@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-eilmeldung is a TUI RSS reader based on the awesome news-flash library.
+hand-made terminal RSS reader supporting many RSS providers, written in rust with love
 
 [![x-cmd/install — eilmeldung Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/eilmeldung.svg)](https://x-cmd.com/install/eilmeldung)
 
@@ -32,27 +32,27 @@ Total: **23,639** lines of code across **417** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.10.0` (2026-10-28)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-07
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,052 · **Forks**: 38 · **Open issues**: 138 · **Contributors**: 13
+- **Stars**: 1,053 · **Forks**: 38 · **Open issues**: 138 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 196 · **Open PRs**: 0 · **Closed issues**: 132 · **Open issues**: 6 · **Commits**: 801
+- **Releases**: 74 · **Merged PRs**: 196 · **Open PRs**: 0 · **Closed issues**: 132 · **Open issues**: 6 · **Commits**: 802
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 2 | 8 | 0 | 2 | 5 | 16 |
-| last60d | 2026-09-08 | 4 | 17 | 0 | 9 | 5 | 33 |
-| 90d | 2026-08-09 | 7 | 34 | 0 | 14 | 5 | 73 |
-| last180d | 2026-05-11 | 15 | 61 | 0 | 23 | 5 | 147 |
-| 360d | 2025-11-12 | 74 | 196 | 0 | 132 | 6 | 726 |
-| last720d | 2024-11-17 | 74 | 196 | 0 | 132 | 6 | 801 |
+| 30d | 2026-10-09 | 2 | 8 | 0 | 2 | 5 | 16 |
+| last60d | 2026-09-09 | 4 | 17 | 0 | 9 | 5 | 32 |
+| 90d | 2026-08-10 | 7 | 34 | 0 | 14 | 5 | 73 |
+| last180d | 2026-05-12 | 15 | 61 | 0 | 23 | 5 | 133 |
+| 360d | 2025-11-13 | 74 | 196 | 0 | 132 | 6 | 717 |
+| last720d | 2024-11-18 | 74 | 196 | 0 | 132 | 6 | 802 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for eilmeldung lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T05:52:57Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T05:56:22Z._
