@@ -31,47 +31,47 @@ Total: **23,639** lines of code across **417** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.10.0` (2026-10-28)
-- **Last commit**: 2026-11-07
+- **Latest**: `1.10.1` (2026-11-11)
+- **Last commit**: 2026-11-11
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,055 · **Forks**: 38 · **Open issues**: 138 · **Contributors**: 13
+- **Stars**: 1,058 · **Forks**: 38 · **Open issues**: 139 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 74 · **Merged PRs**: 196 · **Open PRs**: 0 · **Closed issues**: 133 · **Open issues**: 5 · **Commits**: 802
+- **Releases**: 75 · **Merged PRs**: 196 · **Open PRs**: 0 · **Closed issues**: 134 · **Open issues**: 5 · **Commits**: 807
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 8 | 0 | 3 | 4 | 16 |
-| last60d | 2026-09-12 | 4 | 15 | 0 | 9 | 4 | 32 |
-| 90d | 2026-08-13 | 7 | 34 | 0 | 15 | 4 | 73 |
-| last180d | 2026-05-15 | 14 | 59 | 0 | 24 | 4 | 133 |
-| 360d | 2025-11-16 | 74 | 196 | 0 | 133 | 5 | 717 |
-| last720d | 2024-11-21 | 74 | 196 | 0 | 133 | 5 | 802 |
+| 30d | 2026-10-13 | 3 | 8 | 0 | 4 | 4 | 21 |
+| last60d | 2026-09-13 | 5 | 15 | 0 | 10 | 4 | 37 |
+| 90d | 2026-08-14 | 8 | 33 | 0 | 16 | 4 | 78 |
+| last180d | 2026-05-16 | 15 | 58 | 0 | 23 | 4 | 138 |
+| 360d | 2025-11-17 | 75 | 196 | 0 | 134 | 5 | 722 |
+| last720d | 2024-11-22 | 75 | 196 | 0 | 134 | 5 | 807 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [eilmeldung-aarch64-apple-darwin-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-aarch64-apple-darwin-1.10.0.tar.gz) | 10.7 MiB | `native/darwin/arm64` |
-| [eilmeldung-aarch64-unknown-linux-musl-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-aarch64-unknown-linux-musl-1.10.0.tar.gz) | 12.3 MiB | `native/linux/arm64/musl` |
-| [eilmeldung-armv7-unknown-linux-musleabihf-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-armv7-unknown-linux-musleabihf-1.10.0.tar.gz) | 12.0 MiB | `native/linux/arm/musl` |
-| [eilmeldung-x86_64-apple-darwin-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-x86_64-apple-darwin-1.10.0.tar.gz) | 11.4 MiB | `native/darwin/x64` |
-| [eilmeldung-x86_64-pc-windows-msvc-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-x86_64-pc-windows-msvc-1.10.0.tar.gz) | 12.1 MiB | `native/win/x64` |
-| [eilmeldung-x86_64-unknown-linux-musl-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-x86_64-unknown-linux-musl-1.10.0.tar.gz) | 13.1 MiB | `native/linux/x64/musl` |
+| [eilmeldung-aarch64-apple-darwin-1.10.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-aarch64-apple-darwin-1.10.1.tar.gz) | 10.7 MiB | `native/darwin/arm64` |
+| [eilmeldung-aarch64-unknown-linux-musl-1.10.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-aarch64-unknown-linux-musl-1.10.1.tar.gz) | 12.3 MiB | `native/linux/arm64/musl` |
+| [eilmeldung-armv7-unknown-linux-musleabihf-1.10.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-armv7-unknown-linux-musleabihf-1.10.1.tar.gz) | 12.0 MiB | `native/linux/arm/musl` |
+| [eilmeldung-x86_64-apple-darwin-1.10.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-x86_64-apple-darwin-1.10.1.tar.gz) | 11.5 MiB | `native/darwin/x64` |
+| [eilmeldung-x86_64-pc-windows-msvc-1.10.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-x86_64-pc-windows-msvc-1.10.1.tar.gz) | 12.1 MiB | `native/win/x64` |
+| [eilmeldung-x86_64-unknown-linux-musl-1.10.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-x86_64-unknown-linux-musl-1.10.1.tar.gz) | 13.1 MiB | `native/linux/x64/musl` |
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/eilmeldung). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/eilmeldung). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `1.10.0` | ✅ latest |
+| Nix unstable | `1.10.0` | ⚠️ outdated |
 | Void | `1.7.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -83,4 +83,4 @@ Install metadata for eilmeldung lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:14:57Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:09:07Z._

@@ -31,47 +31,47 @@ x install eilmeldung
 
 ## 发布
 
-- **最新版本**: `1.10.0` (2026-10-28)
-- **最近提交**: 2026-11-07
+- **最新版本**: `1.10.1` (2026-11-11)
+- **最近提交**: 2026-11-11
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 1,055 · **Fork**: 38 · **开放 issue**: 138 · **贡献者**: 13
+- **Star**: 1,058 · **Fork**: 38 · **开放 issue**: 139 · **贡献者**: 13
 
 ## 累计统计
 
-- **发布数**: 74 · **已合并 PR**: 196 · **开放 PR**: 0 · **已关闭 issue**: 133 · **开放 issue**: 5 · **提交数**: 802
+- **发布数**: 75 · **已合并 PR**: 196 · **开放 PR**: 0 · **已关闭 issue**: 134 · **开放 issue**: 5 · **提交数**: 807
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 8 | 0 | 3 | 4 | 16 |
-| last60d | 2026-09-12 | 4 | 15 | 0 | 9 | 4 | 32 |
-| 90d | 2026-08-13 | 7 | 34 | 0 | 15 | 4 | 73 |
-| last180d | 2026-05-15 | 14 | 59 | 0 | 24 | 4 | 133 |
-| 360d | 2025-11-16 | 74 | 196 | 0 | 133 | 5 | 717 |
-| last720d | 2024-11-21 | 74 | 196 | 0 | 133 | 5 | 802 |
+| 30d | 2026-10-13 | 3 | 8 | 0 | 4 | 4 | 21 |
+| last60d | 2026-09-13 | 5 | 15 | 0 | 10 | 4 | 37 |
+| 90d | 2026-08-14 | 8 | 33 | 0 | 16 | 4 | 78 |
+| last180d | 2026-05-16 | 15 | 58 | 0 | 23 | 4 | 138 |
+| 360d | 2025-11-17 | 75 | 196 | 0 | 134 | 5 | 722 |
+| last720d | 2024-11-22 | 75 | 196 | 0 | 134 | 5 | 807 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [eilmeldung-aarch64-apple-darwin-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-aarch64-apple-darwin-1.10.0.tar.gz) | 10.7 MiB | `native/darwin/arm64` |
-| [eilmeldung-aarch64-unknown-linux-musl-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-aarch64-unknown-linux-musl-1.10.0.tar.gz) | 12.3 MiB | `native/linux/arm64/musl` |
-| [eilmeldung-armv7-unknown-linux-musleabihf-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-armv7-unknown-linux-musleabihf-1.10.0.tar.gz) | 12.0 MiB | `native/linux/arm/musl` |
-| [eilmeldung-x86_64-apple-darwin-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-x86_64-apple-darwin-1.10.0.tar.gz) | 11.4 MiB | `native/darwin/x64` |
-| [eilmeldung-x86_64-pc-windows-msvc-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-x86_64-pc-windows-msvc-1.10.0.tar.gz) | 12.1 MiB | `native/win/x64` |
-| [eilmeldung-x86_64-unknown-linux-musl-1.10.0.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.0/eilmeldung-x86_64-unknown-linux-musl-1.10.0.tar.gz) | 13.1 MiB | `native/linux/x64/musl` |
+| [eilmeldung-aarch64-apple-darwin-1.10.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-aarch64-apple-darwin-1.10.1.tar.gz) | 10.7 MiB | `native/darwin/arm64` |
+| [eilmeldung-aarch64-unknown-linux-musl-1.10.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-aarch64-unknown-linux-musl-1.10.1.tar.gz) | 12.3 MiB | `native/linux/arm64/musl` |
+| [eilmeldung-armv7-unknown-linux-musleabihf-1.10.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-armv7-unknown-linux-musleabihf-1.10.1.tar.gz) | 12.0 MiB | `native/linux/arm/musl` |
+| [eilmeldung-x86_64-apple-darwin-1.10.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-x86_64-apple-darwin-1.10.1.tar.gz) | 11.5 MiB | `native/darwin/x64` |
+| [eilmeldung-x86_64-pc-windows-msvc-1.10.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-x86_64-pc-windows-msvc-1.10.1.tar.gz) | 12.1 MiB | `native/win/x64` |
+| [eilmeldung-x86_64-unknown-linux-musl-1.10.1.tar.gz](https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-x86_64-unknown-linux-musl-1.10.1.tar.gz) | 13.1 MiB | `native/linux/x64/musl` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/eilmeldung) 上共有 **9** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/eilmeldung) 上共有 **9** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Nix unstable | `1.10.0` | ✅ latest |
+| Nix unstable | `1.10.0` | ⚠️ outdated |
 | Void | `1.7.2` | ⚠️ outdated |
 
 ## 改进这些数据
@@ -83,4 +83,4 @@ eilmeldung 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261111.yml` · 2026-11-11T06:14:58Z._
+_数据快照: `data/card/261112.yml` · 2026-11-12T07:09:07Z._
