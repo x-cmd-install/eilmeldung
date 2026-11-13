@@ -37,9 +37,9 @@
 - repo: nix_unstable
   srcname: eilmeldung
   visiblename: eilmeldung
-  version: 1.10.0
+  version: 1.10.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Feature-rich TUI RSS reader based on the news-flash library
   maintainers:
     - christo-auer@github
@@ -74,7 +74,7 @@
   srcname: news/eilmeldung
   binname: eilmeldung
   visiblename: news/eilmeldung
-  version: 1.9.1
+  version: 1.10.0
   origversion: null
   status: outdated
   summary: TUI RSS reader based on the news-flash library
