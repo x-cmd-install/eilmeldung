@@ -37,7 +37,7 @@ Total: **23,639** lines of code across **417** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,058 · **Forks**: 38 · **Open issues**: 139 · **Contributors**: 13
+- **Stars**: 1,059 · **Forks**: 38 · **Open issues**: 139 · **Contributors**: 13
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **23,639** lines of code across **417** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 3 | 8 | 0 | 4 | 4 | 21 |
-| last60d | 2026-09-13 | 5 | 15 | 0 | 10 | 4 | 37 |
-| 90d | 2026-08-14 | 8 | 33 | 0 | 16 | 4 | 78 |
-| last180d | 2026-05-16 | 15 | 58 | 0 | 23 | 4 | 138 |
-| 360d | 2025-11-17 | 75 | 196 | 0 | 134 | 5 | 722 |
-| last720d | 2024-11-22 | 75 | 196 | 0 | 134 | 5 | 807 |
+| 30d | 2026-10-14 | 3 | 8 | 0 | 4 | 4 | 21 |
+| last60d | 2026-09-14 | 5 | 15 | 0 | 10 | 4 | 37 |
+| 90d | 2026-08-15 | 8 | 33 | 0 | 16 | 4 | 78 |
+| last180d | 2026-05-17 | 15 | 55 | 0 | 23 | 4 | 138 |
+| 360d | 2025-11-18 | 75 | 196 | 0 | 134 | 5 | 722 |
+| last720d | 2024-11-23 | 75 | 196 | 0 | 134 | 5 | 807 |
 
 ## Release assets
 
@@ -67,11 +67,11 @@ Total: **23,639** lines of code across **417** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/eilmeldung). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/eilmeldung). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `1.10.0` | ⚠️ outdated |
+| Nix unstable | `1.10.1` | ✅ latest |
 | Void | `1.7.2` | ⚠️ outdated |
 
 ## Improve this data
@@ -83,4 +83,4 @@ Install metadata for eilmeldung lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:09:07Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:34:47Z._
