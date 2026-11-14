@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11182389,
       "digest": "sha256:d58198cb26118090834d4a9938b636e1791f9cb83e754ea6c84609f70c6d1fc3",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-11-11T12:46:01Z",
       "updated_at": "2026-11-11T12:46:02Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-aarch64-apple-darwin-1.10.1.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 12867243,
       "digest": "sha256:8426b788dde7e6249616058327fadb68a1c15425cf916d081d253e87a6d5260d",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-11T12:46:01Z",
       "updated_at": "2026-11-11T12:46:02Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-aarch64-unknown-linux-musl-1.10.1.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12593940,
       "digest": "sha256:145b5da28060fb5f6c500532a66ecb412db94598e9a54785bcfe1b479214daaa",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-11-11T12:46:01Z",
       "updated_at": "2026-11-11T12:46:02Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-armv7-unknown-linux-musleabihf-1.10.1.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 12009936,
       "digest": "sha256:7bec31ca5ba9f33bfeb6a05d4a664541d6f70a3a2d34fb0416a4c2b24c3f5f60",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-11-11T12:46:01Z",
       "updated_at": "2026-11-11T12:46:02Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-x86_64-apple-darwin-1.10.1.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12680678,
       "digest": "sha256:c3c6c4e5ac470918d66c5ecef86a03d31971f4e0c5d1491acbcc302f86a0cae7",
-      "download_count": 34,
+      "download_count": 42,
       "created_at": "2026-11-11T12:46:01Z",
       "updated_at": "2026-11-11T12:46:02Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-x86_64-pc-windows-msvc-1.10.1.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13747273,
       "digest": "sha256:5e3e6a1386ae45829f768c41537e8bbc168d16217680938c860b795c2b743f3c",
-      "download_count": 90,
+      "download_count": 109,
       "created_at": "2026-11-11T12:46:01Z",
       "updated_at": "2026-11-11T12:46:02Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-x86_64-unknown-linux-musl-1.10.1.tar.gz"
