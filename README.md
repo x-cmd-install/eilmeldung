@@ -14,11 +14,11 @@ x install eilmeldung
 
 ## Code insight
 
-Total: **24,442** lines of code across **427** files in the top 5 languages.
+Total: **24,472** lines of code across **427** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 16,443 | 291 | 2,508 | 66 |
+| Rust | 16,473 | 293 | 2,516 | 66 |
 | Yaml | 7,461 | 28 | 14 | 352 |
 | Toml | 375 | 76 | 43 | 4 |
 | Nix | 131 | 3 | 23 | 4 |
@@ -32,27 +32,27 @@ Total: **24,442** lines of code across **427** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.10.1` (2026-11-11)
-- **Last commit**: 2026-11-17
+- **Last commit**: 2026-11-18
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,064 · **Forks**: 39 · **Open issues**: 141 · **Contributors**: 13
+- **Stars**: 1,066 · **Forks**: 39 · **Open issues**: 141 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 201 · **Open PRs**: 1 · **Closed issues**: 138 · **Open issues**: 3 · **Commits**: 812
+- **Releases**: 75 · **Merged PRs**: 203 · **Open PRs**: 0 · **Closed issues**: 138 · **Open issues**: 3 · **Commits**: 814
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 12 | 1 | 7 | 2 | 19 |
-| last60d | 2026-09-18 | 5 | 19 | 1 | 12 | 2 | 34 |
-| 90d | 2026-08-19 | 8 | 38 | 1 | 20 | 2 | 83 |
-| last180d | 2026-05-21 | 14 | 60 | 1 | 25 | 2 | 134 |
-| 360d | 2025-11-22 | 75 | 201 | 1 | 138 | 3 | 723 |
-| last720d | 2024-11-27 | 75 | 201 | 1 | 138 | 3 | 812 |
+| 30d | 2026-10-20 | 3 | 12 | 0 | 7 | 1 | 21 |
+| last60d | 2026-09-20 | 4 | 19 | 0 | 9 | 2 | 36 |
+| 90d | 2026-08-21 | 8 | 40 | 0 | 20 | 2 | 85 |
+| last180d | 2026-05-23 | 14 | 61 | 0 | 25 | 2 | 136 |
+| 360d | 2025-11-24 | 75 | 203 | 0 | 138 | 3 | 725 |
+| last720d | 2024-11-29 | 75 | 203 | 0 | 138 | 3 | 814 |
 
 ## Release assets
 
@@ -67,7 +67,7 @@ Total: **24,442** lines of code across **427** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/eilmeldung). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+Reported by **9** distros on [repology.org](https://repology.org/project/eilmeldung). **5** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -83,4 +83,4 @@ Install metadata for eilmeldung lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:14:54Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:31:55Z._
