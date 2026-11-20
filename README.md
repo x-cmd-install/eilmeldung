@@ -14,11 +14,11 @@ x install eilmeldung
 
 ## Code insight
 
-Total: **24,472** lines of code across **427** files in the top 5 languages.
+Total: **24,482** lines of code across **427** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 16,473 | 293 | 2,516 | 66 |
+| Rust | 16,483 | 293 | 2,516 | 66 |
 | Yaml | 7,461 | 28 | 14 | 352 |
 | Toml | 375 | 76 | 43 | 4 |
 | Nix | 131 | 3 | 23 | 4 |
@@ -32,27 +32,27 @@ Total: **24,472** lines of code across **427** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.10.1` (2026-11-11)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-19
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,066 · **Forks**: 39 · **Open issues**: 141 · **Contributors**: 14
+- **Stars**: 1,066 · **Forks**: 39 · **Open issues**: 143 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 203 · **Open PRs**: 0 · **Closed issues**: 138 · **Open issues**: 3 · **Commits**: 814
+- **Releases**: 75 · **Merged PRs**: 204 · **Open PRs**: 0 · **Closed issues**: 139 · **Open issues**: 4 · **Commits**: 815
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 3 | 12 | 0 | 7 | 1 | 21 |
-| last60d | 2026-09-20 | 4 | 19 | 0 | 9 | 2 | 36 |
-| 90d | 2026-08-21 | 8 | 40 | 0 | 20 | 2 | 85 |
-| last180d | 2026-05-23 | 14 | 61 | 0 | 25 | 2 | 136 |
-| 360d | 2025-11-24 | 75 | 203 | 0 | 138 | 3 | 725 |
-| last720d | 2024-11-29 | 75 | 203 | 0 | 138 | 3 | 814 |
+| 30d | 2026-10-21 | 2 | 12 | 0 | 8 | 2 | 22 |
+| last60d | 2026-09-21 | 4 | 18 | 0 | 10 | 3 | 37 |
+| 90d | 2026-08-22 | 8 | 41 | 0 | 21 | 3 | 86 |
+| last180d | 2026-05-24 | 14 | 61 | 0 | 26 | 3 | 137 |
+| 360d | 2025-11-25 | 75 | 204 | 0 | 139 | 4 | 726 |
+| last720d | 2024-11-30 | 75 | 204 | 0 | 139 | 4 | 815 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for eilmeldung lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:31:55Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:09:37Z._
