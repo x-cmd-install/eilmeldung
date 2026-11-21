@@ -14,13 +14,13 @@ x install eilmeldung
 
 ## Code insight
 
-Total: **24,482** lines of code across **427** files in the top 5 languages.
+Total: **24,734** lines of code across **428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 16,483 | 293 | 2,516 | 66 |
+| Rust | 16,704 | 300 | 2,552 | 67 |
 | Yaml | 7,461 | 28 | 14 | 352 |
-| Toml | 375 | 76 | 43 | 4 |
+| Toml | 406 | 76 | 43 | 4 |
 | Nix | 131 | 3 | 23 | 4 |
 | Ruby | 19 | 0 | 6 | 1 |
 
@@ -32,27 +32,27 @@ Total: **24,482** lines of code across **427** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.10.1` (2026-11-11)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-20
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 1,066 · **Forks**: 39 · **Open issues**: 143 · **Contributors**: 14
+- **Stars**: 1,067 · **Forks**: 39 · **Open issues**: 143 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 204 · **Open PRs**: 0 · **Closed issues**: 139 · **Open issues**: 4 · **Commits**: 815
+- **Releases**: 75 · **Merged PRs**: 206 · **Open PRs**: 0 · **Closed issues**: 141 · **Open issues**: 2 · **Commits**: 817
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 12 | 0 | 8 | 2 | 22 |
-| last60d | 2026-09-21 | 4 | 18 | 0 | 10 | 3 | 37 |
-| 90d | 2026-08-22 | 8 | 41 | 0 | 21 | 3 | 86 |
-| last180d | 2026-05-24 | 14 | 61 | 0 | 26 | 3 | 137 |
-| 360d | 2025-11-25 | 75 | 204 | 0 | 139 | 4 | 726 |
-| last720d | 2024-11-30 | 75 | 204 | 0 | 139 | 4 | 815 |
+| 30d | 2026-10-22 | 2 | 14 | 0 | 7 | 0 | 24 |
+| last60d | 2026-09-22 | 4 | 20 | 0 | 12 | 1 | 39 |
+| 90d | 2026-08-23 | 8 | 43 | 0 | 23 | 1 | 88 |
+| last180d | 2026-05-25 | 14 | 63 | 0 | 28 | 1 | 139 |
+| 360d | 2025-11-26 | 75 | 206 | 0 | 141 | 2 | 728 |
+| last720d | 2024-12-01 | 75 | 206 | 0 | 141 | 2 | 817 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for eilmeldung lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:09:37Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T06:58:42Z._
