@@ -14,14 +14,14 @@ x install eilmeldung
 
 ## Code insight
 
-Total: **24,734** lines of code across **428** files in the top 5 languages.
+Total: **24,744** lines of code across **428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 16,704 | 300 | 2,552 | 67 |
 | Yaml | 7,461 | 28 | 14 | 352 |
 | Toml | 406 | 76 | 43 | 4 |
-| Nix | 131 | 3 | 23 | 4 |
+| Nix | 141 | 3 | 25 | 4 |
 | Ruby | 19 | 0 | 6 | 1 |
 
 ## Source
@@ -32,7 +32,7 @@ Total: **24,734** lines of code across **428** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.10.1` (2026-11-11)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-22
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **24,734** lines of code across **428** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 75 · **Merged PRs**: 206 · **Open PRs**: 1 · **Closed issues**: 141 · **Open issues**: 3 · **Commits**: 817
+- **Releases**: 75 · **Merged PRs**: 207 · **Open PRs**: 1 · **Closed issues**: 141 · **Open issues**: 3 · **Commits**: 818
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 2 | 14 | 1 | 7 | 1 | 18 |
-| last60d | 2026-09-23 | 4 | 20 | 1 | 12 | 2 | 34 |
-| 90d | 2026-08-24 | 8 | 40 | 1 | 23 | 2 | 68 |
-| last180d | 2026-05-26 | 14 | 63 | 1 | 27 | 2 | 138 |
-| 360d | 2025-11-27 | 75 | 206 | 1 | 141 | 3 | 725 |
-| last720d | 2024-12-02 | 75 | 206 | 1 | 141 | 3 | 817 |
+| 30d | 2026-10-24 | 2 | 15 | 1 | 7 | 1 | 19 |
+| last60d | 2026-09-24 | 3 | 21 | 1 | 12 | 2 | 35 |
+| 90d | 2026-08-25 | 8 | 41 | 1 | 23 | 2 | 69 |
+| last180d | 2026-05-27 | 14 | 64 | 1 | 27 | 2 | 139 |
+| 360d | 2025-11-28 | 75 | 207 | 1 | 141 | 3 | 726 |
+| last720d | 2024-12-03 | 75 | 207 | 1 | 141 | 3 | 818 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for eilmeldung lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:44:50Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:39:39Z._
