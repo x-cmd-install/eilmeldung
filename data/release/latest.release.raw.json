@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12680678,
       "digest": "sha256:c3c6c4e5ac470918d66c5ecef86a03d31971f4e0c5d1491acbcc302f86a0cae7",
-      "download_count": 92,
+      "download_count": 96,
       "created_at": "2026-11-11T12:46:01Z",
       "updated_at": "2026-11-11T12:46:02Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-x86_64-pc-windows-msvc-1.10.1.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 13747273,
       "digest": "sha256:5e3e6a1386ae45829f768c41537e8bbc168d16217680938c860b795c2b743f3c",
-      "download_count": 267,
+      "download_count": 275,
       "created_at": "2026-11-11T12:46:01Z",
       "updated_at": "2026-11-11T12:46:02Z",
       "browser_download_url": "https://github.com/christo-auer/eilmeldung/releases/download/1.10.1/eilmeldung-x86_64-unknown-linux-musl-1.10.1.tar.gz"
