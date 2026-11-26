@@ -37,7 +37,7 @@ Total: **24,744** lines of code across **428** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,068 · **Forks**: 39 · **Open issues**: 144 · **Contributors**: 14
+- **Stars**: 1,069 · **Forks**: 39 · **Open issues**: 144 · **Contributors**: 14
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **24,744** lines of code across **428** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 2 | 15 | 1 | 7 | 1 | 19 |
-| last60d | 2026-09-26 | 3 | 21 | 1 | 12 | 2 | 35 |
-| 90d | 2026-08-27 | 7 | 38 | 1 | 23 | 2 | 69 |
-| last180d | 2026-05-29 | 14 | 64 | 1 | 27 | 2 | 139 |
-| 360d | 2025-11-30 | 75 | 207 | 1 | 141 | 3 | 726 |
-| last720d | 2024-12-05 | 75 | 207 | 1 | 141 | 3 | 818 |
+| 30d | 2026-10-27 | 2 | 15 | 1 | 7 | 1 | 0 |
+| last60d | 2026-09-27 | 3 | 20 | 1 | 12 | 2 | 0 |
+| 90d | 2026-08-28 | 7 | 36 | 1 | 23 | 2 | 0 |
+| last180d | 2026-05-30 | 14 | 64 | 1 | 27 | 2 | 0 |
+| 360d | 2025-12-01 | 75 | 207 | 1 | 141 | 3 | 0 |
+| last720d | 2024-12-06 | 75 | 207 | 1 | 141 | 3 | 818 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for eilmeldung lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:25:26Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:36:04Z._
