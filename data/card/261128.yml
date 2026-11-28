@@ -1,0 +1,138 @@
+about:
+  description: "hand-made terminal RSS reader supporting many RSS providers, written in rust with love"
+  license: GPL-3.0
+  homepage: 
+  head: 673b318
+  archived: false
+  latestVersion: "1.10.1"
+  latestRelease: "1.10.1"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:47:37Z
+timeline:
+  created: 2025-12-14
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-11
+  lastRelease: 2026-11-11
+  lastPrerelease: 
+popularity:
+  star: 1070
+  watcher: 1
+  fork: 39
+  release: 75
+  contributor: 14
+  pullRequest: 214
+  issue: 144
+language:
+  Rust: 655950
+  Nix: 4347
+  Ruby: 692
+  Shell: 621
+totalBytes: 661610
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 16
+    openPR: 1
+    closedIssue: 8
+    openIssue: 0
+    commit: 22
+  last60d:
+    since: 2026-09-29
+    release: 3
+    mergedPR: 23
+    openPR: 1
+    closedIssue: 13
+    openIssue: 1
+    commit: 38
+  last90d:
+    since: 2026-08-30
+    release: 7
+    mergedPR: 39
+    openPR: 1
+    closedIssue: 24
+    openIssue: 1
+    commit: 72
+  last180d:
+    since: 2026-06-01
+    release: 14
+    mergedPR: 67
+    openPR: 1
+    closedIssue: 28
+    openIssue: 1
+    commit: 142
+  last360d:
+    since: 2025-12-03
+    release: 75
+    mergedPR: 210
+    openPR: 1
+    closedIssue: 142
+    openIssue: 2
+    commit: 729
+  last720d:
+    since: 2024-12-08
+    release: 75
+    mergedPR: 210
+    openPR: 1
+    closedIssue: 142
+    openIssue: 2
+    commit: 821
+total:
+  release: 75
+  mergedPR: 210
+  openPR: 1
+  closedIssue: 142
+  openIssue: 2
+  commit: 821
+---
+path: /home/runner/.x-repo/github.com/christo-auer/eilmeldung
+collectedAt: 2026-11-28T07:47:39Z
+loc:
+  Rust:
+    code: 16815
+    comments: 289
+    blanks: 2563
+    files: 69
+  Yaml:
+    code: 7461
+    comments: 28
+    blanks: 14
+    files: 352
+  Toml:
+    code: 404
+    comments: 78
+    blanks: 43
+    files: 4
+  Nix:
+    code: 141
+    comments: 3
+    blanks: 25
+    files: 4
+  Ruby:
+    code: 19
+    comments: 0
+    blanks: 6
+    files: 1
+  Sh:
+    code: 13
+    comments: 2
+    blanks: 8
+    files: 2
+  Markdown:
+    code: 0
+    comments: 2790
+    blanks: 1179
+    files: 15
+  Text:
+    code: 0
+    comments: 38
+    blanks: 10
+    files: 1
+total:
+  code: 25268
+  comments: 3284
+  blanks: 3885
+  files: 448
+---
+
+---
